@@ -10,3 +10,6 @@ This repository is for record-keeping purposes only. <strong>The files uploaded 
 - Do not use these files for commercial purposes.
 - Do not modify these files unless authorised.
 - Do not assume
+
+**Files starting from 20260620 are store on their respective repos.
+Repo name format: persecuted-media-files-yyyymmdd**
